@@ -32,21 +32,7 @@ def main():
             is_running = False
         else:
             print("PLEASE! ENTER A VALID LEVEL.")
-            
-
-
-
-
-
-
-
-# Panggil fungsi game dari game.py
-
-# Terima hasil permainan (menang / kalah / score)
-
-# Tanyakan apakah user ingin bermain lagi
-
-# Jika tidak, tampilkan pesan penutup dan keluar program
 
 if __name__ == "__main__":
     main()
+
