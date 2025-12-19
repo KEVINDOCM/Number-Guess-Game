@@ -11,7 +11,7 @@ A simple number guessing game where players try to guess a randomly generated nu
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/Number-Guess-game.git
+git clone https://github.com/KEVINDOCM/Number-Guess-game.git
 cd Number-Guess-game
 ```
 
@@ -27,4 +27,5 @@ Follow the on-screen prompts to guess the number.
 - Python 3.6+
 
 ## License
+
 MIT License
