@@ -26,6 +26,9 @@ Follow the on-screen prompts to guess the number.
 ## Requirements
 - Python 3.6+
 
+## Project
+https://roadmap.sh/projects/number-guessing-game
+
 ## License
 
 MIT License
